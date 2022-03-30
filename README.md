@@ -28,7 +28,7 @@
 ## ⚙️ Instalação
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/GustavoWalien/gobarber-web.git
+$ git clone https://github.com/GustavoWalien/gobarber-mobile.git
 ```
 
 ```
@@ -39,6 +39,7 @@ $ cd gobarber-mobile
 $ yarn
 
 # Inicie a aplicação
+$ yarn start
 $ yarn ios ou yarn android 
 
 ```
