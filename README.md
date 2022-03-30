@@ -33,13 +33,13 @@ $ git clone https://github.com/GustavoWalien/gobarber-web.git
 
 ```
 # Acesse a pasta da aplicação
-$ cd gobarber-web
+$ cd gobarber-mobile
 
 # Instale as dependências
 $ yarn
 
 # Inicie a aplicação
-$ yarn start
+$ yarn ios ou yarn android 
 
 ```
 ## ✔️ Pré-Requisito
