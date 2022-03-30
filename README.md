@@ -1,4 +1,4 @@
-# GoBarber Mobile 💈
+# 💈 GoBarber Mobile 
 
 ![gobarber-mobile](https://user-images.githubusercontent.com/19844596/160931974-5602ce19-44de-4944-8cea-51548cbac60a.png)
 
