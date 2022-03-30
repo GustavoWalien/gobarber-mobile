@@ -54,4 +54,4 @@ $ yarn ios ou yarn android
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a Licença MIT. Acesse o arquivo de [LICENSE](https://github.com/GustavoWalien/gobarber-web/blob/master/LICENSE) para obter mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Acesse o arquivo de [LICENSE](https://github.com/GustavoWalien/gobarber-mobile/blob/master/LICENSE) para obter mais detalhes.
