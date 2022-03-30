@@ -17,7 +17,7 @@
 
 ## 🛠️ Tecnologias ultilizadas
 
-* [React Native](https://pt-br.reactjs.org/)
+* [React Native](https://reactnative.dev/)
 * [Mongo DB](https://www.mongodb.com/pt-br)
 * [Redis](https://redis.io/)
 * [PostgreSQL](https://www.postgresql.org/)
