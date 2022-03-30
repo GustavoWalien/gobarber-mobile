@@ -1,7 +1,7 @@
 # GoBarber Mobile 💈
 
 <div align="center">
-  <img alt="GoBarber" title="GoBarber" src="https://user-images.githubusercontent.com/19844596/160872755-09b5ddc2-1aa4-4726-8b2d-85a3fe480701.png" />
+  <img alt="GoBarber" title="GoBarber" src="https://user-images.githubusercontent.com/19844596/160919488-695c414f-2453-433b-8ca1-746f55bf3cad.png" />
 </div>
 
 ## 📚 Sobre
