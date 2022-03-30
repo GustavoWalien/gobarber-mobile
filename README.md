@@ -4,9 +4,6 @@
   <img alt="GoBarber" title="GoBarber" src="https://user-images.githubusercontent.com/19844596/160872755-09b5ddc2-1aa4-4726-8b2d-85a3fe480701.png" />
 </div>
 
-[Projeto Web](https://github.com/GustavoWalien/gobarber-web)
-[Back-end](https://github.com/GustavoWalien/gobarber-backend)
-
 ## 📚 Sobre
 
 * O projeto GoBarber é uma aplicação que visa conectar barbeiros e cabeleireiros com seus clientes, dessa forma é possível realizar agendamentos de acordo com os dias e horários disponíveis do profissional.
@@ -57,6 +54,13 @@ $ yarn start
 ## ✔️ Pré-Requisito
 
 * É necessário estar executando toda a estrutura Back-end para o funcionamento da aplicação. Acesse o projeto de back-end para saber mais detalhes. [Clique aqui](https://github.com/GustavoWalien/gobarber-backend).
+
+&nbsp;
+
+## Projetos relacionados
+
+* [Projeto Web](https://github.com/GustavoWalien/gobarber-web)
+* [Back-end](https://github.com/GustavoWalien/gobarber-backend)
 
 &nbsp;
 
